@@ -15,9 +15,53 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-По образованию я юрист, но в 2021 году я решила стать **фронтенд разработчиком**, чтобы быть ближе к современным технологиям и создавать современные и удобные веб-приложения :smiley:
+Раньше я работала юристом, но в 2021 году я решила стать **фронтенд разработчиком**, чтобы быть ближе к современным технологиям и создавать современные и удобные веб-приложения :smiley:
 
-В свободное время я много учусь, делаю свои pet-проекты и решаю задачи по JavaScript на CodeWars :sunglasses: Мечтаю поскорее стать профессиональным разработчиком и делать визуально красивые проекты.
+В свободное время я много учусь, делаю свои pet-проекты и решаю задачи по JavaScript на CodeWars :sunglasses: Мечтаю поскорее стать профессиональным разработчиком и делать сложные и визуально красивые проекты.
+
+## Мои проекты
+<table>
+  <thead>
+    <tr>
+      <th>Название</th>
+      <th>Использованные технологии</th>
+      <th>Описание</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/MgKraynova/game-memory-cards'>Игра "Найди пару" на JS</a></td>
+      <td>JavaScript, CSS, HTML</td>
+      <td><b>Pet project.</b> Карточная игра "Найди пару" на JS.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/MgKraynova/react-mesto-auth'>Веб-приложение "Mesto" на React.js</a></td>
+      <td>React.js, JavaScript, CSS, HTML</td>
+      <td><b>Учебный проект</b> Mesto, переписанный с JavaScript на React. Аналог Инстаграм. Проверен ревьюерами Я.Практикума.</td>
+    </tr>
+      <tr>
+      <td><a href='https://github.com/MgKraynova/react-mesto-auth'>Веб-приложение "Mesto" на JavaScript</a></td>
+      <td>JavaScript, CSS, HTML</td>
+      <td><b>Учебный проект</b> Mesto на JavaScript. Аналог Инстаграм. Проверен ревьюерами Я.Практикума.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/MgKraynova/hungry-people'>Лендинг ресторана Hungry People</a></td>
+      <td>CSS, HTML, JavaScript</td>
+      <td><b>Pet project.</b> Одностраничный лендинг для ресторана, адаптированный под разные экраны. 
+        Из особенностей: бургерное меню на JS, всплывающие попапы при заполнении форм на JS.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/MgKraynova/online-store'>Лендинг мебельного магазина</a></td>
+      <td>CSS, HTML</td>
+      <td><b>Pet project.</b> Одностраничный лендинг для мебельного магазина, адаптированный под разные экраны.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/MgKraynova/russian-travel'>Одностраничный сайт "Путешествия по России"</a></td>
+      <td>CSS, HTML</td>
+      <td><b>Учебный проект.</b> Одностраничный сайт с адаптивной версткой.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Образование
 * Курс веб-разработчик в Яндекс.Практикум // август 2021 – май 2022
@@ -37,5 +81,5 @@ Here are some ideas to get you started:
 ## Контакты
 kraynovamg@gmail.com
 
-
+## Статистика
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MgKraynova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
