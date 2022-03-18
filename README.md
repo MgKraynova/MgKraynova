@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 В свободное время я много учусь, делаю свои pet-проекты и решаю задачи по JavaScript на CodeWars :sunglasses: Мечтаю поскорее стать профессиональным разработчиком и делать сложные и визуально красивые проекты.
 
 ## Мои проекты
+<details>
+<summary><b>Посмотреть</b></summary>
 <table>
   <thead>
     <tr>
@@ -62,6 +64,7 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+</details>
 
 ## Образование
 * Курс веб-разработчик в Яндекс.Практикум // август 2021 – май 2022
