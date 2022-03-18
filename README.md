@@ -19,27 +19,6 @@ Here are some ideas to get you started:
 
 В свободное время я много учусь, делаю свои pet-проекты и решаю задачи по JavaScript на CodeWars :sunglasses: Мечтаю поскорее стать профессиональным разработчиком и делать визуально красивые проекты.
 
-## Мои проекты
-<details>
-<summary><b>Посмотреть</b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Название</th>
-      <th>Использованные технологии</th>
-      <th>Описание</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href='https://github.com/MgKraynova/game-memory-cards'>Игра "Найди пару" на JS</a></td>
-      <td>JavaScript, CSS, HTML</td>
-      <td>Цель игры - найти все парные карточки. С помощью JS описано, как выбрать время игры, как сравнивать карточки, как перевернуть карточки обратно, если они не совпадают, что делать, если время истекло, как начать новую игру и т.д.</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-
 ## Образование
 * Курс веб-разработчик в Яндекс.Практикум // август 2021 – май 2022
 
@@ -57,5 +36,6 @@ Here are some ideas to get you started:
 
 ## Контакты
 kraynovamg@gmail.com
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MgKraynova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
