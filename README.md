@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <tr>
       <td><a href='https://github.com/MgKraynova/react-mesto-auth'>Веб-приложение "Mesto" на React.js</a></td>
       <td>React.js, JavaScript, CSS, HTML</td>
-      <td><b>Учебный проект</b> Mesto, переписанный с JavaScript на React. Аналог Инстаграм. Проверен ревьюерами Я.Практикума.</td>
+      <td><b>Учебный проект</b> Mesto, переписанный с JavaScript на React. Аналог Инстаграм. К JS версии добавлена регистрация и авторизация пользователя. Проверен ревьюерами Я.Практикума.</td>
     </tr>
       <tr>
       <td><a href='https://github.com/MgKraynova/mesto'>Веб-приложение "Mesto" на JavaScript</a></td>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
       <td><b>Pet project.</b> Одностраничный лендинг для мебельного магазина, адаптированный под разные экраны.</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/MgKraynova/russian-travel'>Одностраничный сайт "Путешествия по России"</a></td>
+      <td><a href='https://github.com/MgKraynova/russian-travel'>Одностраничный сайт "Путешествия по России". Проверен ревьюерами Я.Практикума.</a></td>
       <td>CSS, HTML</td>
       <td><b>Учебный проект.</b> Одностраничный сайт с адаптивной версткой.</td>
     </tr>
