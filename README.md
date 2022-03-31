@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 В свободное время я много учусь, делаю свои pet-проекты и решаю задачи по JavaScript на CodeWars :sunglasses: Мечтаю поскорее стать профессиональным разработчиком и делать сложные и визуально красивые проекты.
 
-## Мои проекты
+## Мои проекты 
 <details>
 <summary><b>Посмотреть</b></summary>
 <table>
@@ -58,9 +58,9 @@ Here are some ideas to get you started:
       <td><b>Pet project.</b> Одностраничный лендинг для мебельного магазина, адаптированный под разные экраны.</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/MgKraynova/russian-travel'>Одностраничный сайт "Путешествия по России". Проверен ревьюерами Я.Практикума.</a></td>
+      <td><a href='https://github.com/MgKraynova/russian-travel'>Одностраничный сайт "Путешествия по России"</a></td>
       <td>CSS, HTML</td>
-      <td><b>Учебный проект.</b> Одностраничный сайт с адаптивной версткой.</td>
+      <td><b>Учебный проект.</b> Одностраничный сайт с адаптивной версткой. Проверен ревьюерами Я.Практикума.</td>
     </tr>
   </tbody>
 </table>
@@ -85,4 +85,6 @@ Here are some ideas to get you started:
 kraynovamg@gmail.com
 
 ## Статистика
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MgKraynova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MgKraynova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+
+[![codewars](https://www.codewars.com/users/MgKraynova/badges/large)](https://www.codewars.com/users/MgKraynova)  
