@@ -34,7 +34,7 @@ Here are some ideas to get you started:
      <tr>
       <td><a href='https://github.com/MgKraynova/search-films-app'>Search films app на React.js</a></td>
       <td>React.js, JavaScript, CSS, HTML</td>
-      <td><b>Pet project. </b>Приложение по поиску фильмов из базы данных OMDB</td>
+      <td><b>Pet project. </b>Приложение по поиску фильмов из базы данных OMDB.</td>
     </tr>
     <tr>
       <td><a href='https://github.com/MgKraynova/game-memory-cards'>Игра "Найди пару" на JS</a></td>
