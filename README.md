@@ -46,6 +46,11 @@ Here are some ideas to get you started:
       <td>React.js, JavaScript, CSS, HTML</td>
       <td><b>Учебный проект</b> Mesto, переписанный с JavaScript на React. Аналог Инстаграм. К JS версии добавлена регистрация и авторизация пользователя. Проверен ревьюерами Я.Практикума.</td>
     </tr>
+    <tr>
+      <td><a href='https://github.com/MgKraynova/react-mesto-auth'>Бэкенд для проекта "Mesto"</a></td>
+      <td>Node.js, Express.js, MongoDB</td>
+      <td><b>Учебный проект.</b> Сервер позволяет регистрировать новых пользователей, создавать новые карточки, хранит данные, позволяет редактировать данные профиля, ставить лайки и удалять карточки. Проверен ревьюерами Я.Практикума.</td>
+    </tr>
       <tr>
       <td><a href='https://github.com/MgKraynova/mesto'>Веб-приложение "Mesto" на JavaScript</a></td>
       <td>JavaScript, CSS, HTML</td>
