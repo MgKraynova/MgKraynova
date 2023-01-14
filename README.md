@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Я работаю практикантом фронтенд разработчиком в продуктовой компании. В свободное время я много учусь, делаю свои pet-проекты и решаю задачи по JavaScript на CodeWars :sunglasses: 
+Я работаю фронтенд разработчиком в продуктовой компании :sunglasses: 
 
 ## Мои проекты 
 <details>
@@ -75,17 +75,25 @@ Here are some ideas to get you started:
 </details>
 
 ## Образование
+<details>
+<summary><b>Посмотреть</b></summary>
 * Курс веб-разработчик в Яндекс.Практикум // август 2021 – май 2022
 
 * Курс "TypeScript с нуля - полный курс и паттерны проектирования" на Stepik // май 2022 - август 2022
 
 * Бакалавриат и магистратура в НИУ ВШЭ по направлению "Юриспруденция" // 2013 - 2019
+</details>
 
 ## Мои навыки
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
