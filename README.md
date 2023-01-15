@@ -99,10 +99,7 @@ Here are some ideas to get you started:
 
 Английский язык – B2
 
-## Контакты
-kraynovamg@gmail.com
-
 ## Статистика
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MgKraynova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MgKraynova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;-->
 
 [![codewars](https://www.codewars.com/users/MgKraynova/badges/large)](https://www.codewars.com/users/MgKraynova)  
