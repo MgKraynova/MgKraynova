@@ -74,16 +74,6 @@ Here are some ideas to get you started:
 </table>
 </details>
 
-## Образование
-<details>
-<summary><b>Посмотреть</b></summary>
-* Курс веб-разработчик в Яндекс.Практикум // август 2021 – май 2022
-
-* Курс "TypeScript с нуля - полный курс и паттерны проектирования" на Stepik // май 2022 - август 2022
-
-* Бакалавриат и магистратура в НИУ ВШЭ по направлению "Юриспруденция" // 2013 - 2019
-</details>
-
 ## Мои навыки
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
