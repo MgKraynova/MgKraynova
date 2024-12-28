@@ -17,63 +17,6 @@ Here are some ideas to get you started:
 
 Я работаю фронтенд разработчиком в продуктовой компании :sunglasses: 
 
-## Мои проекты 
-<details>
-<summary><b>Посмотреть</b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Название</th>
-      <th>Использованные технологии</th>
-      <th>Описание</th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td><a href='https://github.com/MgKraynova/search-films-app'>Search films app на React.js</a></td>
-      <td>React.js, JavaScript, CSS, HTML</td>
-      <td><b>Pet project. </b>Приложение по поиску фильмов из базы данных OMDB.</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/MgKraynova/game-memory-cards'>Игра "Найди пару" на JS</a></td>
-      <td>JavaScript, CSS, HTML</td>
-      <td><b>Pet project.</b> Карточная игра "Найди пару" на JS.</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/MgKraynova/react-mesto-auth'>Веб-приложение "Mesto" на React.js</a></td>
-      <td>React.js, JavaScript, CSS, HTML</td>
-      <td><b>Учебный проект</b> Mesto, переписанный с JavaScript на React. Аналог Инстаграм. К JS версии добавлена регистрация и авторизация пользователя. Проверен ревьюерами Я.Практикума.</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/MgKraynova/react-mesto-auth'>Бэкенд для проекта "Mesto"</a></td>
-      <td>Node.js, Express.js, MongoDB</td>
-      <td><b>Учебный проект.</b> Сервер позволяет регистрировать новых пользователей, создавать новые карточки, хранит данные, позволяет редактировать данные профиля, ставить лайки и удалять карточки. Проверен ревьюерами Я.Практикума.</td>
-    </tr>
-      <tr>
-      <td><a href='https://github.com/MgKraynova/mesto'>Веб-приложение "Mesto" на JavaScript</a></td>
-      <td>JavaScript, CSS, HTML</td>
-      <td><b>Учебный проект</b> Mesto на JavaScript. Аналог Инстаграм. Проверен ревьюерами Я.Практикума.</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/MgKraynova/hungry-people'>Лендинг ресторана Hungry People</a></td>
-      <td>CSS, HTML, JavaScript</td>
-      <td><b>Pet project.</b> Одностраничный лендинг для ресторана, адаптированный под разные экраны. 
-        Из особенностей: бургерное меню на JS, всплывающие попапы при заполнении форм на JS.</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/MgKraynova/online-store'>Лендинг мебельного магазина</a></td>
-      <td>CSS, HTML</td>
-      <td><b>Pet project.</b> Одностраничный лендинг для мебельного магазина, адаптированный под разные экраны.</td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/MgKraynova/russian-travel'>Одностраничный сайт "Путешествия по России"</a></td>
-      <td>CSS, HTML</td>
-      <td><b>Учебный проект.</b> Одностраничный сайт с адаптивной версткой. Проверен ревьюерами Я.Практикума.</td>
-    </tr>
-  </tbody>
-</table>
-</details>
-
 ## Мой стек
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
