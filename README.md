@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 ![ReduxSaga](https://img.shields.io/badge/-ReduxSaga-05122A?style=flat&logo=Redux-saga)&nbsp;
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat)&nbsp;
 
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![React Testing Library](https://img.shields.io/badge/-ReactTestingLibrary-05122A?style=flat)&nbsp;
+![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
